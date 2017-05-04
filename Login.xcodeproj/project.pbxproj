@@ -21,6 +21,7 @@
 		FCA37E721EB91FB9009486CB /* UserStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCA37E711EB91FB9009486CB /* UserStore.swift */; };
 		FCA37E741EB96263009486CB /* LoginAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCA37E731EB96263009486CB /* LoginAPI.swift */; };
 		FCA37E761EB98A66009486CB /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCA37E751EB98A66009486CB /* User.swift */; };
+		FCA37E781EBB976B009486CB /* login-app.png in Resources */ = {isa = PBXBuildFile; fileRef = FCA37E771EBB976B009486CB /* login-app.png */; };
 		FCD110CBAC7D2BA25C3F2DD9 /* Pods_Login.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1FBB39D9967E1B728677C1B3 /* Pods_Login.framework */; };
 /* End PBXBuildFile section */
 
@@ -69,6 +70,7 @@
 		FCA37E711EB91FB9009486CB /* UserStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserStore.swift; sourceTree = "<group>"; };
 		FCA37E731EB96263009486CB /* LoginAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginAPI.swift; sourceTree = "<group>"; };
 		FCA37E751EB98A66009486CB /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		FCA37E771EBB976B009486CB /* login-app.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "login-app.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +127,7 @@
 		FCA37E2F1EB90843009486CB = {
 			isa = PBXGroup;
 			children = (
+				FCA37E771EBB976B009486CB /* login-app.png */,
 				FCA37E3A1EB90843009486CB /* Login */,
 				FCA37E4F1EB90843009486CB /* LoginTests */,
 				FCA37E5A1EB90843009486CB /* LoginUITests */,
@@ -302,6 +305,7 @@
 				FCA37E461EB90843009486CB /* LaunchScreen.storyboard in Resources */,
 				FCA37E431EB90843009486CB /* Assets.xcassets in Resources */,
 				FCA37E411EB90843009486CB /* Main.storyboard in Resources */,
+				FCA37E781EBB976B009486CB /* login-app.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
